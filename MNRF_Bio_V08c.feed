@@ -45,6 +45,7 @@ StopBits=1
 Value1=CSV,32,1,1,MUL,1000
 
 [InputDevice2]
+PortNo=COM8
 Baud=9600
 DataBits=7
 Parity=0
